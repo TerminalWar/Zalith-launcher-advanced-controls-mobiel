@@ -1,15 +1,15 @@
 {
     "info": {
         "name": {
-            "default": "default",
+            "default": "A9+ Optimized Touch",
             "matchQueue": [
                 {
                     "language_tag": "zh",
-                    "value": "預設"
+                    "value": "\u9810\u8a2d"
                 },
                 {
                     "language_tag": "zh-CN",
-                    "value": "默认"
+                    "value": "\u9ed8\u8ba4"
                 }
             ]
         },
@@ -18,12 +18,12 @@
             "matchQueue": [
                 {
                     "language_tag": "zh",
-                    "value": "墨北MovTery"
+                    "value": "\u58a8\u5317MovTery"
                 }
             ]
         },
         "description": {
-            "default": "",
+            "default": "Galaxy Tab A9+ optimized joystick layout: left movement pad, right action cluster, no tap-click buttons.",
             "matchQueue": []
         },
         "versionCode": 0,
@@ -43,15 +43,15 @@
                     },
                     "uuid": "166b980299c8420ab8",
                     "position": {
-                        "x": 10000,
-                        "y": 0
+                        "x": 9500,
+                        "y": 120
                     },
                     "buttonSize": {
                         "type": "percentage",
                         "widthDp": 50.0,
                         "heightDp": 50.0,
-                        "widthPercentage": 2289,
-                        "heightPercentage": 1100,
+                        "widthPercentage": 1600,
+                        "heightPercentage": 900,
                         "widthReference": "screen_height",
                         "heightReference": "screen_height"
                     },
@@ -94,19 +94,19 @@
                     },
                     "uuid": "9f74414211ff444684",
                     "position": {
-                        "x": 0,
-                        "y": 0
+                        "x": 120,
+                        "y": 120
                     },
                     "buttonSize": {
                         "type": "percentage",
                         "widthDp": 50.0,
                         "heightDp": 50.0,
-                        "widthPercentage": 2289,
-                        "heightPercentage": 1100,
+                        "widthPercentage": 1500,
+                        "heightPercentage": 900,
                         "widthReference": "screen_height",
                         "heightReference": "screen_height"
                     },
-                    "buttonStyle": "43f4fb63f80a",
+                    "buttonStyle": "d1096cf91caa",
                     "visibilityType": "always",
                     "clickEvents": [
                         {
@@ -125,15 +125,15 @@
                     },
                     "uuid": "9743e67ed3be4b8bbd",
                     "position": {
-                        "x": 7330,
-                        "y": 10000
+                        "x": 8420,
+                        "y": 7420
                     },
                     "buttonSize": {
                         "type": "percentage",
                         "widthDp": 50.0,
                         "heightDp": 50.0,
-                        "widthPercentage": 1200,
-                        "heightPercentage": 1200,
+                        "widthPercentage": 1900,
+                        "heightPercentage": 1900,
                         "widthReference": "screen_height",
                         "heightReference": "screen_height"
                     },
@@ -156,15 +156,15 @@
                     },
                     "uuid": "8d52b73e45504bc291",
                     "position": {
-                        "x": 1181,
-                        "y": 0
+                        "x": 1750,
+                        "y": 120
                     },
                     "buttonSize": {
                         "type": "percentage",
                         "widthDp": 50.0,
                         "heightDp": 50.0,
-                        "widthPercentage": 2289,
-                        "heightPercentage": 1100,
+                        "widthPercentage": 1300,
+                        "heightPercentage": 900,
                         "widthReference": "screen_height",
                         "heightReference": "screen_height"
                     },
@@ -187,19 +187,19 @@
                     },
                     "uuid": "cdc5a1325c034b96ae",
                     "position": {
-                        "x": 2361,
-                        "y": 0
+                        "x": 3150,
+                        "y": 120
                     },
                     "buttonSize": {
                         "type": "percentage",
                         "widthDp": 50.0,
                         "heightDp": 50.0,
-                        "widthPercentage": 2289,
-                        "heightPercentage": 1100,
+                        "widthPercentage": 1300,
+                        "heightPercentage": 900,
                         "widthReference": "screen_height",
                         "heightReference": "screen_height"
                     },
-                    "buttonStyle": "21b054786830",
+                    "buttonStyle": "d1096cf91caa",
                     "visibilityType": "always",
                     "clickEvents": [
                         {
@@ -218,19 +218,19 @@
                     },
                     "uuid": "fd8053d877dd412fbe",
                     "position": {
-                        "x": 0,
-                        "y": 1239
+                        "x": 4550,
+                        "y": 120
                     },
                     "buttonSize": {
                         "type": "percentage",
                         "widthDp": 50.0,
                         "heightDp": 50.0,
-                        "widthPercentage": 2289,
-                        "heightPercentage": 1100,
+                        "widthPercentage": 1300,
+                        "heightPercentage": 900,
                         "widthReference": "screen_height",
                         "heightReference": "screen_height"
                     },
-                    "buttonStyle": "a5824dc0029d",
+                    "buttonStyle": "d1096cf91caa",
                     "visibilityType": "always",
                     "clickEvents": [
                         {
@@ -249,15 +249,15 @@
                     },
                     "uuid": "eb95c5df997842539a",
                     "position": {
-                        "x": 1181,
-                        "y": 1239
+                        "x": 5950,
+                        "y": 120
                     },
                     "buttonSize": {
                         "type": "percentage",
                         "widthDp": 50.0,
                         "heightDp": 50.0,
-                        "widthPercentage": 2289,
-                        "heightPercentage": 1100,
+                        "widthPercentage": 1300,
+                        "heightPercentage": 900,
                         "widthReference": "screen_height",
                         "heightReference": "screen_height"
                     },
@@ -279,29 +279,29 @@
                         "matchQueue": [
                             {
                                 "language_tag": "zh",
-                                "value": "輸入法"
+                                "value": "\u8f38\u5165\u6cd5"
                             },
                             {
                                 "language_tag": "zh-CN",
-                                "value": "输入法"
+                                "value": "\u8f93\u5165\u6cd5"
                             }
                         ]
                     },
                     "uuid": "bd02bca5cd894f0da5",
                     "position": {
-                        "x": 2361,
-                        "y": 1239
+                        "x": 7350,
+                        "y": 120
                     },
                     "buttonSize": {
                         "type": "percentage",
                         "widthDp": 50.0,
                         "heightDp": 50.0,
-                        "widthPercentage": 2289,
-                        "heightPercentage": 1100,
+                        "widthPercentage": 1300,
+                        "heightPercentage": 900,
                         "widthReference": "screen_height",
                         "heightReference": "screen_height"
                     },
-                    "buttonStyle": "0fa337d97f90",
+                    "buttonStyle": "d1096cf91caa",
                     "visibilityType": "always",
                     "clickEvents": [
                         {
@@ -328,15 +328,15 @@
                     },
                     "uuid": "7cbfd1caa467471fb4",
                     "position": {
-                        "x": 846,
-                        "y": 3105
+                        "x": 280,
+                        "y": 4550
                     },
                     "buttonSize": {
                         "type": "percentage",
                         "widthDp": 50.0,
                         "heightDp": 50.0,
-                        "widthPercentage": 2621,
-                        "heightPercentage": 1100,
+                        "widthPercentage": 1800,
+                        "heightPercentage": 1400,
                         "widthReference": "screen_height",
                         "heightReference": "screen_height"
                     },
@@ -359,19 +359,19 @@
                     },
                     "uuid": "2aee05995e024ae4a5",
                     "position": {
-                        "x": 2222,
-                        "y": 3105
+                        "x": 280,
+                        "y": 6150
                     },
                     "buttonSize": {
                         "type": "percentage",
                         "widthDp": 50.0,
                         "heightDp": 50.0,
-                        "widthPercentage": 2621,
-                        "heightPercentage": 1100,
+                        "widthPercentage": 1800,
+                        "heightPercentage": 1400,
                         "widthReference": "screen_height",
                         "heightReference": "screen_height"
                     },
-                    "buttonStyle": "d8cd25b80d5d",
+                    "buttonStyle": "ea3ab7bc621f",
                     "visibilityType": "always",
                     "clickEvents": [
                         {
@@ -397,29 +397,29 @@
                         "matchQueue": [
                             {
                                 "language_tag": "zh",
-                                "value": "左鍵"
+                                "value": "\u5de6\u9375"
                             },
                             {
                                 "language_tag": "zh-CN",
-                                "value": "左键"
+                                "value": "\u5de6\u952e"
                             }
                         ]
                     },
                     "uuid": "90dd63546ff14a92be",
                     "position": {
-                        "x": 7590,
-                        "y": 5480
+                        "x": 7420,
+                        "y": 5250
                     },
                     "buttonSize": {
                         "type": "percentage",
                         "widthDp": 50.0,
                         "heightDp": 50.0,
-                        "widthPercentage": 2150,
-                        "heightPercentage": 1380,
+                        "widthPercentage": 1700,
+                        "heightPercentage": 1700,
                         "widthReference": "screen_height",
                         "heightReference": "screen_height"
                     },
-                    "buttonStyle": "43f4fb63f80a",
+                    "buttonStyle": "cac8c754ffa0",
                     "visibilityType": "always",
                     "clickEvents": [
                         {
@@ -437,29 +437,29 @@
                         "matchQueue": [
                             {
                                 "language_tag": "zh",
-                                "value": "右鍵"
+                                "value": "\u53f3\u9375"
                             },
                             {
                                 "language_tag": "zh-CN",
-                                "value": "右键"
+                                "value": "\u53f3\u952e"
                             }
                         ]
                     },
                     "uuid": "96e156843d754adda4",
                     "position": {
-                        "x": 8690,
-                        "y": 5480
+                        "x": 8720,
+                        "y": 4720
                     },
                     "buttonSize": {
                         "type": "percentage",
                         "widthDp": 50.0,
                         "heightDp": 50.0,
-                        "widthPercentage": 2150,
-                        "heightPercentage": 1380,
+                        "widthPercentage": 1500,
+                        "heightPercentage": 1500,
                         "widthReference": "screen_height",
                         "heightReference": "screen_height"
                     },
-                    "buttonStyle": "21b054786830",
+                    "buttonStyle": "cac8c754ffa0",
                     "visibilityType": "always",
                     "clickEvents": [
                         {
@@ -473,24 +473,24 @@
                 },
                 {
                     "text": {
-                        "default": "□",
+                        "default": "\u25a1",
                         "matchQueue": []
                     },
                     "uuid": "53bea7b9f6974f6b9a",
                     "position": {
-                        "x": 7590,
-                        "y": 7080
+                        "x": 7420,
+                        "y": 6880
                     },
                     "buttonSize": {
                         "type": "percentage",
                         "widthDp": 50.0,
                         "heightDp": 50.0,
-                        "widthPercentage": 2150,
-                        "heightPercentage": 1380,
+                        "widthPercentage": 1650,
+                        "heightPercentage": 1650,
                         "widthReference": "screen_height",
                         "heightReference": "screen_height"
                     },
-                    "buttonStyle": "a5824dc0029d",
+                    "buttonStyle": "cac8c754ffa0",
                     "visibilityType": "always",
                     "clickEvents": [
                         {
@@ -504,24 +504,24 @@
                 },
                 {
                     "text": {
-                        "default": "■",
+                        "default": "\u25a0",
                         "matchQueue": []
                     },
                     "uuid": "ece30bbe48204713ae",
                     "position": {
-                        "x": 8690,
-                        "y": 7080
+                        "x": 8850,
+                        "y": 6600
                     },
                     "buttonSize": {
                         "type": "percentage",
                         "widthDp": 50.0,
                         "heightDp": 50.0,
-                        "widthPercentage": 2150,
-                        "heightPercentage": 1380,
+                        "widthPercentage": 2100,
+                        "heightPercentage": 2100,
                         "widthReference": "screen_height",
                         "heightReference": "screen_height"
                     },
-                    "buttonStyle": "0fa337d97f90",
+                    "buttonStyle": "cac8c754ffa0",
                     "visibilityType": "always",
                     "clickEvents": [
                         {
@@ -544,24 +544,24 @@
             "normalButtons": [
                 {
                     "text": {
-                        "default": "◤",
+                        "default": "",
                         "matchQueue": []
                     },
                     "uuid": "34491c2810e349eabc",
                     "position": {
-                        "x": 794,
-                        "y": 5411
+                        "x": 720,
+                        "y": 5960
                     },
                     "buttonSize": {
                         "type": "percentage",
                         "widthDp": 50.0,
                         "heightDp": 50.0,
-                        "widthPercentage": 1380,
-                        "heightPercentage": 1380,
+                        "widthPercentage": 1550,
+                        "heightPercentage": 1550,
                         "widthReference": "screen_height",
                         "heightReference": "screen_height"
                     },
-                    "buttonStyle": "43f4fb63f80a",
+                    "buttonStyle": "cac8c754ffa0",
                     "visibilityType": "always",
                     "clickEvents": [
                         {
@@ -579,24 +579,24 @@
                 },
                 {
                     "text": {
-                        "default": "▲",
+                        "default": "",
                         "matchQueue": []
                     },
                     "uuid": "d619389a54c2492da5",
                     "position": {
-                        "x": 1474,
-                        "y": 5410
+                        "x": 1460,
+                        "y": 5200
                     },
                     "buttonSize": {
                         "type": "percentage",
                         "widthDp": 50.0,
                         "heightDp": 50.0,
-                        "widthPercentage": 1380,
-                        "heightPercentage": 1380,
+                        "widthPercentage": 1550,
+                        "heightPercentage": 1550,
                         "widthReference": "screen_height",
                         "heightReference": "screen_height"
                     },
-                    "buttonStyle": "d1096cf91caa",
+                    "buttonStyle": "cac8c754ffa0",
                     "visibilityType": "always",
                     "clickEvents": [
                         {
@@ -610,24 +610,24 @@
                 },
                 {
                     "text": {
-                        "default": "◥",
+                        "default": "",
                         "matchQueue": []
                     },
                     "uuid": "6405ab1234dc4dd196",
                     "position": {
-                        "x": 2154,
-                        "y": 5410
+                        "x": 2200,
+                        "y": 5960
                     },
                     "buttonSize": {
                         "type": "percentage",
                         "widthDp": 50.0,
                         "heightDp": 50.0,
-                        "widthPercentage": 1380,
-                        "heightPercentage": 1380,
+                        "widthPercentage": 1550,
+                        "heightPercentage": 1550,
                         "widthReference": "screen_height",
                         "heightReference": "screen_height"
                     },
-                    "buttonStyle": "21b054786830",
+                    "buttonStyle": "cac8c754ffa0",
                     "visibilityType": "always",
                     "clickEvents": [
                         {
@@ -645,24 +645,24 @@
                 },
                 {
                     "text": {
-                        "default": "▶",
+                        "default": "",
                         "matchQueue": []
                     },
                     "uuid": "e3e53f4bd0294dfd81",
                     "position": {
-                        "x": 2154,
-                        "y": 7011
+                        "x": 2560,
+                        "y": 7010
                     },
                     "buttonSize": {
                         "type": "percentage",
                         "widthDp": 50.0,
                         "heightDp": 50.0,
-                        "widthPercentage": 1380,
-                        "heightPercentage": 1380,
+                        "widthPercentage": 1550,
+                        "heightPercentage": 1550,
                         "widthReference": "screen_height",
                         "heightReference": "screen_height"
                     },
-                    "buttonStyle": "d1096cf91caa",
+                    "buttonStyle": "cac8c754ffa0",
                     "visibilityType": "always",
                     "clickEvents": [
                         {
@@ -676,24 +676,24 @@
                 },
                 {
                     "text": {
-                        "default": "◢",
+                        "default": "",
                         "matchQueue": []
                     },
                     "uuid": "e7371c2e87984cd398",
                     "position": {
-                        "x": 2154,
-                        "y": 8611
+                        "x": 2200,
+                        "y": 8060
                     },
                     "buttonSize": {
                         "type": "percentage",
                         "widthDp": 50.0,
                         "heightDp": 50.0,
-                        "widthPercentage": 1380,
-                        "heightPercentage": 1380,
+                        "widthPercentage": 1550,
+                        "heightPercentage": 1550,
                         "widthReference": "screen_height",
                         "heightReference": "screen_height"
                     },
-                    "buttonStyle": "0fa337d97f90",
+                    "buttonStyle": "cac8c754ffa0",
                     "visibilityType": "always",
                     "clickEvents": [
                         {
@@ -711,24 +711,24 @@
                 },
                 {
                     "text": {
-                        "default": "▼",
+                        "default": "",
                         "matchQueue": []
                     },
                     "uuid": "66af107363814fefa3",
                     "position": {
-                        "x": 1474,
-                        "y": 8611
+                        "x": 1460,
+                        "y": 8820
                     },
                     "buttonSize": {
                         "type": "percentage",
                         "widthDp": 50.0,
                         "heightDp": 50.0,
-                        "widthPercentage": 1380,
-                        "heightPercentage": 1380,
+                        "widthPercentage": 1550,
+                        "heightPercentage": 1550,
                         "widthReference": "screen_height",
                         "heightReference": "screen_height"
                     },
-                    "buttonStyle": "d1096cf91caa",
+                    "buttonStyle": "cac8c754ffa0",
                     "visibilityType": "always",
                     "clickEvents": [
                         {
@@ -742,24 +742,24 @@
                 },
                 {
                     "text": {
-                        "default": "◣",
+                        "default": "",
                         "matchQueue": []
                     },
                     "uuid": "23779a4bd30445d798",
                     "position": {
-                        "x": 794,
-                        "y": 8611
+                        "x": 720,
+                        "y": 8060
                     },
                     "buttonSize": {
                         "type": "percentage",
                         "widthDp": 50.0,
                         "heightDp": 50.0,
-                        "widthPercentage": 1380,
-                        "heightPercentage": 1380,
+                        "widthPercentage": 1550,
+                        "heightPercentage": 1550,
                         "widthReference": "screen_height",
                         "heightReference": "screen_height"
                     },
-                    "buttonStyle": "a5824dc0029d",
+                    "buttonStyle": "cac8c754ffa0",
                     "visibilityType": "always",
                     "clickEvents": [
                         {
@@ -777,24 +777,24 @@
                 },
                 {
                     "text": {
-                        "default": "◀",
+                        "default": "",
                         "matchQueue": []
                     },
                     "uuid": "573d5f14535a4a15b2",
                     "position": {
-                        "x": 794,
-                        "y": 7011
+                        "x": 360,
+                        "y": 7010
                     },
                     "buttonSize": {
                         "type": "percentage",
                         "widthDp": 50.0,
                         "heightDp": 50.0,
-                        "widthPercentage": 1380,
-                        "heightPercentage": 1380,
+                        "widthPercentage": 1550,
+                        "heightPercentage": 1550,
                         "widthReference": "screen_height",
                         "heightReference": "screen_height"
                     },
-                    "buttonStyle": "d1096cf91caa",
+                    "buttonStyle": "cac8c754ffa0",
                     "visibilityType": "always",
                     "clickEvents": [
                         {
@@ -813,19 +813,19 @@
                     },
                     "uuid": "0abd99dce6344565b0",
                     "position": {
-                        "x": 1474,
-                        "y": 7011
+                        "x": 1460,
+                        "y": 7010
                     },
                     "buttonSize": {
                         "type": "percentage",
                         "widthDp": 50.0,
                         "heightDp": 50.0,
-                        "widthPercentage": 1380,
-                        "heightPercentage": 1380,
+                        "widthPercentage": 1550,
+                        "heightPercentage": 1550,
                         "widthReference": "screen_height",
                         "heightReference": "screen_height"
                     },
-                    "buttonStyle": "d1096cf91caa",
+                    "buttonStyle": "cac8c754ffa0",
                     "visibilityType": "always",
                     "isSwipple": true,
                     "isPenetrable": false,
@@ -840,12 +840,12 @@
             "uuid": "21b054786830",
             "animateSwap": false,
             "lightStyle": {
-                "alpha": 1.0,
-                "pressedAlpha": 1.0,
+                "alpha": 0.22,
+                "pressedAlpha": 0.5,
                 "backgroundColor": -9223372036854775808,
-                "pressedBackgroundColor": -5510004026390872064,
-                "contentColor": -4294967296,
-                "pressedContentColor": -4294967296,
+                "pressedBackgroundColor": -365072220160,
+                "contentColor": -1,
+                "pressedContentColor": -1,
                 "borderWidth": 0,
                 "pressedBorderWidth": 0,
                 "borderColor": -4294967296,
@@ -864,12 +864,12 @@
                 }
             },
             "darkStyle": {
-                "alpha": 1.0,
-                "pressedAlpha": 1.0,
+                "alpha": 0.22,
+                "pressedAlpha": 0.5,
                 "backgroundColor": -9223372036854775808,
-                "pressedBackgroundColor": -5510004026390872064,
-                "contentColor": -4294967296,
-                "pressedContentColor": -4294967296,
+                "pressedBackgroundColor": -365072220160,
+                "contentColor": -1,
+                "pressedContentColor": -1,
                 "borderWidth": 0,
                 "pressedBorderWidth": 0,
                 "borderColor": -4294967296,
@@ -893,12 +893,12 @@
             "uuid": "43f4fb63f80a",
             "animateSwap": false,
             "lightStyle": {
-                "alpha": 1.0,
-                "pressedAlpha": 1.0,
+                "alpha": 0.22,
+                "pressedAlpha": 0.5,
                 "backgroundColor": -9223372036854775808,
-                "pressedBackgroundColor": -5510004026390872064,
-                "contentColor": -4294967296,
-                "pressedContentColor": -4294967296,
+                "pressedBackgroundColor": -365072220160,
+                "contentColor": -1,
+                "pressedContentColor": -1,
                 "borderWidth": 0,
                 "pressedBorderWidth": 0,
                 "borderColor": -4294967296,
@@ -917,12 +917,12 @@
                 }
             },
             "darkStyle": {
-                "alpha": 1.0,
-                "pressedAlpha": 1.0,
+                "alpha": 0.22,
+                "pressedAlpha": 0.5,
                 "backgroundColor": -9223372036854775808,
-                "pressedBackgroundColor": -5510004026390872064,
-                "contentColor": -4294967296,
-                "pressedContentColor": -4294967296,
+                "pressedBackgroundColor": -365072220160,
+                "contentColor": -1,
+                "pressedContentColor": -1,
                 "borderWidth": 0,
                 "pressedBorderWidth": 0,
                 "borderColor": -4294967296,
@@ -946,12 +946,12 @@
             "uuid": "0fa337d97f90",
             "animateSwap": false,
             "lightStyle": {
-                "alpha": 1.0,
-                "pressedAlpha": 1.0,
+                "alpha": 0.22,
+                "pressedAlpha": 0.5,
                 "backgroundColor": -9223372036854775808,
-                "pressedBackgroundColor": -5510004026390872064,
-                "contentColor": -4294967296,
-                "pressedContentColor": -4294967296,
+                "pressedBackgroundColor": -365072220160,
+                "contentColor": -1,
+                "pressedContentColor": -1,
                 "borderWidth": 0,
                 "pressedBorderWidth": 0,
                 "borderColor": -4294967296,
@@ -970,12 +970,12 @@
                 }
             },
             "darkStyle": {
-                "alpha": 1.0,
-                "pressedAlpha": 1.0,
+                "alpha": 0.22,
+                "pressedAlpha": 0.5,
                 "backgroundColor": -9223372036854775808,
-                "pressedBackgroundColor": -5510004026390872064,
-                "contentColor": -4294967296,
-                "pressedContentColor": -4294967296,
+                "pressedBackgroundColor": -365072220160,
+                "contentColor": -1,
+                "pressedContentColor": -1,
                 "borderWidth": 0,
                 "pressedBorderWidth": 0,
                 "borderColor": -4294967296,
@@ -999,12 +999,12 @@
             "uuid": "a5824dc0029d",
             "animateSwap": false,
             "lightStyle": {
-                "alpha": 1.0,
-                "pressedAlpha": 1.0,
+                "alpha": 0.22,
+                "pressedAlpha": 0.5,
                 "backgroundColor": -9223372036854775808,
-                "pressedBackgroundColor": -5510004026390872064,
-                "contentColor": -4294967296,
-                "pressedContentColor": -4294967296,
+                "pressedBackgroundColor": -365072220160,
+                "contentColor": -1,
+                "pressedContentColor": -1,
                 "borderWidth": 0,
                 "pressedBorderWidth": 0,
                 "borderColor": -4294967296,
@@ -1023,12 +1023,12 @@
                 }
             },
             "darkStyle": {
-                "alpha": 1.0,
-                "pressedAlpha": 1.0,
+                "alpha": 0.22,
+                "pressedAlpha": 0.5,
                 "backgroundColor": -9223372036854775808,
-                "pressedBackgroundColor": -5510004026390872064,
-                "contentColor": -4294967296,
-                "pressedContentColor": -4294967296,
+                "pressedBackgroundColor": -365072220160,
+                "contentColor": -1,
+                "pressedContentColor": -1,
                 "borderWidth": 0,
                 "pressedBorderWidth": 0,
                 "borderColor": -4294967296,
@@ -1052,12 +1052,12 @@
             "uuid": "d8cd25b80d5d",
             "animateSwap": false,
             "lightStyle": {
-                "alpha": 1.0,
-                "pressedAlpha": 1.0,
+                "alpha": 0.22,
+                "pressedAlpha": 0.5,
                 "backgroundColor": -9223372036854775808,
-                "pressedBackgroundColor": -5510004026390872064,
-                "contentColor": -4294967296,
-                "pressedContentColor": -4294967296,
+                "pressedBackgroundColor": -365072220160,
+                "contentColor": -1,
+                "pressedContentColor": -1,
                 "borderWidth": 0,
                 "pressedBorderWidth": 0,
                 "borderColor": -4294967296,
@@ -1076,12 +1076,12 @@
                 }
             },
             "darkStyle": {
-                "alpha": 1.0,
-                "pressedAlpha": 1.0,
+                "alpha": 0.22,
+                "pressedAlpha": 0.5,
                 "backgroundColor": -9223372036854775808,
-                "pressedBackgroundColor": -5510004026390872064,
-                "contentColor": -4294967296,
-                "pressedContentColor": -4294967296,
+                "pressedBackgroundColor": -365072220160,
+                "contentColor": -1,
+                "pressedContentColor": -1,
                 "borderWidth": 0,
                 "pressedBorderWidth": 0,
                 "borderColor": -4294967296,
@@ -1105,12 +1105,12 @@
             "uuid": "ea3ab7bc621f",
             "animateSwap": false,
             "lightStyle": {
-                "alpha": 1.0,
-                "pressedAlpha": 1.0,
+                "alpha": 0.22,
+                "pressedAlpha": 0.5,
                 "backgroundColor": -9223372036854775808,
-                "pressedBackgroundColor": -5510004026390872064,
-                "contentColor": -4294967296,
-                "pressedContentColor": -4294967296,
+                "pressedBackgroundColor": -365072220160,
+                "contentColor": -1,
+                "pressedContentColor": -1,
                 "borderWidth": 0,
                 "pressedBorderWidth": 0,
                 "borderColor": -4294967296,
@@ -1129,12 +1129,12 @@
                 }
             },
             "darkStyle": {
-                "alpha": 1.0,
-                "pressedAlpha": 1.0,
+                "alpha": 0.22,
+                "pressedAlpha": 0.5,
                 "backgroundColor": -9223372036854775808,
-                "pressedBackgroundColor": -5510004026390872064,
-                "contentColor": -4294967296,
-                "pressedContentColor": -4294967296,
+                "pressedBackgroundColor": -365072220160,
+                "contentColor": -1,
+                "pressedContentColor": -1,
                 "borderWidth": 0,
                 "pressedBorderWidth": 0,
                 "borderColor": -4294967296,
@@ -1158,12 +1158,12 @@
             "uuid": "cac8c754ffa0",
             "animateSwap": false,
             "lightStyle": {
-                "alpha": 1.0,
-                "pressedAlpha": 1.0,
+                "alpha": 0.22,
+                "pressedAlpha": 0.5,
                 "backgroundColor": -9223372036854775808,
-                "pressedBackgroundColor": -5510004026390872064,
-                "contentColor": -4294967296,
-                "pressedContentColor": -4294967296,
+                "pressedBackgroundColor": -365072220160,
+                "contentColor": -1,
+                "pressedContentColor": -1,
                 "borderWidth": 0,
                 "pressedBorderWidth": 0,
                 "borderColor": -4294967296,
@@ -1182,12 +1182,12 @@
                 }
             },
             "darkStyle": {
-                "alpha": 1.0,
-                "pressedAlpha": 1.0,
+                "alpha": 0.22,
+                "pressedAlpha": 0.5,
                 "backgroundColor": -9223372036854775808,
-                "pressedBackgroundColor": -5510004026390872064,
-                "contentColor": -4294967296,
-                "pressedContentColor": -4294967296,
+                "pressedBackgroundColor": -365072220160,
+                "contentColor": -1,
+                "pressedContentColor": -1,
                 "borderWidth": 0,
                 "pressedBorderWidth": 0,
                 "borderColor": -4294967296,
@@ -1211,12 +1211,12 @@
             "uuid": "d1096cf91caa",
             "animateSwap": false,
             "lightStyle": {
-                "alpha": 1.0,
-                "pressedAlpha": 1.0,
+                "alpha": 0.22,
+                "pressedAlpha": 0.5,
                 "backgroundColor": -9223372036854775808,
-                "pressedBackgroundColor": -5510004026390872064,
-                "contentColor": -4294967296,
-                "pressedContentColor": -4294967296,
+                "pressedBackgroundColor": -365072220160,
+                "contentColor": -1,
+                "pressedContentColor": -1,
                 "borderWidth": 0,
                 "pressedBorderWidth": 0,
                 "borderColor": -4294967296,
@@ -1235,12 +1235,12 @@
                 }
             },
             "darkStyle": {
-                "alpha": 1.0,
-                "pressedAlpha": 1.0,
+                "alpha": 0.22,
+                "pressedAlpha": 0.5,
                 "backgroundColor": -9223372036854775808,
-                "pressedBackgroundColor": -5510004026390872064,
-                "contentColor": -4294967296,
-                "pressedContentColor": -4294967296,
+                "pressedBackgroundColor": -365072220160,
+                "contentColor": -1,
+                "pressedContentColor": -1,
                 "borderWidth": 0,
                 "pressedBorderWidth": 0,
                 "borderColor": -4294967296,
